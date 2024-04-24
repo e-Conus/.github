@@ -1,6 +1,6 @@
 ## Hello world ! 👋
 
-![{e}conus logo](http://www.econus.be/img/econus_header.png)
+![{e}conus logo](https://raw.githubusercontent.com/e-Conus/common/main/logo.png)
 
 <details> 
 	<summary>Work in progress ...</summary>
